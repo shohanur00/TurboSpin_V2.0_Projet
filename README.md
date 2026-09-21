@@ -39,7 +39,7 @@ It is a compact, learning-oriented hardware platform with a dedicated power stag
 ## 🎬 Demo
 
 <!-- Upload the clip to the repo (or drag it into a GitHub issue/README edit box) and update the path. -->
-[https://github.com/shohanur00/TurboSpin_V2.0_Projet/blob/main/Test/TurboSpin_V2.mp4]
+https://github.com/shohanur00/TurboSpin_V2.0_Projet/blob/main/Test/TurboSpin_V2.mp4
 
 ---
 

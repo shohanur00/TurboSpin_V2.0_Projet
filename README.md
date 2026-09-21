@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-
-=======
 <div align="center">
 
 # ⚡ TurboSpin V2
@@ -42,7 +39,7 @@ It is a compact, learning-oriented hardware platform with a dedicated power stag
 ## 🎬 Demo
 
 <!-- Upload the clip to the repo (or drag it into a GitHub issue/README edit box) and update the path. -->
-https://github.com/shohanur00/TurboSpin_V2/blob/main/Images/TurboSpin_V2_demo.mp4
+https://github.com/shohanur00/TurboSpin_V2/blob/main/Test/TurboSpin_V2.mp4
 
 ---
 
@@ -285,4 +282,4 @@ TurboSpin V2 isn't meant to be just another ESC board. It's a complete learning 
 **If you find this project useful, consider giving it a ⭐**
 
 </div>
->>>>>>> 267ba9f (Revision: 1.0)
+
